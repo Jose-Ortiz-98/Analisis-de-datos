@@ -1,4 +1,4 @@
-![Header del Proyecto]([https://link-de-tu-imagen.png](https://www.google.com/imgres?q=an%C3%A1lisis%20de%20datos&imgurl=https%3A%2F%2Fit-nova.co%2Fwp-content%2Fuploads%2Fanalisis-de-datos-768x403.jpeg&imgrefurl=https%3A%2F%2Fit-nova.co%2Fcomo-crear-un-plan-de-analisis-de-datos-exitoso%2F&docid=qI1bVFI4eY_ZbM&tbnid=DbJ3RPEzFZmfXM&vet=12ahUKEwi82On-jeWVAxW6STABHadlL7sQnPAOegUItwUQAA..i&w=768&h=403&hcb=2&ved=2ahUKEwi82On-jeWVAxW6STABHadlL7sQnPAOegUItwUQAA))
+<img width="1200" height="628" alt="como-hacer-un-analisis-de-datos" src="https://github.com/user-attachments/assets/74c6a2cb-7d1d-4675-abfa-f79eed765894" />
 
 # Análisis Exploratorio de Datos y Modelado Predictivo
 
