@@ -3,7 +3,7 @@
 # Análisis Exploratorio de Datos y Modelado Predictivo
 
 ## 📌 Descripción del Proyecto
-Este proyecto comprende y analiza diferentes conjuntos de datos para identificar patrones clave e implementar un modelo de clasificación en Python y R.
+Este proyecto comprende el análisis exploratorio y la estructuración de datos mediante Python, R, Excel y Power BI, permitiendo identificar patrones clave, visualizar métricas de negocio e implementar un modelo de clasificación predictivo.
 
 ## 🛠️ Herramientas Utilizadas
 * **Lenguajes:** Python (Quarto) y R (R Markdown)
